@@ -8,13 +8,13 @@ import SEO from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
-    <h1>Welcome To Koggz (beta)</h1>
-    <p>This app is still being developed so please be patient.</p>
-    <p>Now go build something great.</p>
+    <h1>Welcome</h1>
+    <p>Scan this QR code to try our mobile app.</p>
+    <p>We make parts for you on demand.</p>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
-    <Link to="/page-2/">Go to page 2</Link>
+    #<Link to="/page-2/">Go to page 2</Link>#
   </Layout>
 )
 
