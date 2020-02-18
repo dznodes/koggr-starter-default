@@ -9,7 +9,7 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
     <h1>We make parts on demand.</h1>
-    <p>Scan this QR code to try out our mobile app.</p>
+    <p>To try our mobile app, scan this QR code.</p>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
    
