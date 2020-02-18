@@ -14,7 +14,7 @@ const IndexPage = () => (
       <Image />
    
     <body>
-      <button onclick="window.location.href = 'https://forms.gle/vGo5FozQmdwW1B1AA';">Or Click Here</button>
+      <button onclick='https://forms.gle/vGo5FozQmdwW1B1AA';">Or Click Here</button>
     </body>
 
     </div>
