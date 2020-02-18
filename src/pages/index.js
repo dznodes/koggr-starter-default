@@ -12,10 +12,6 @@ const IndexPage = () => (
     <p>To try our mobile app please scan this QR code.</p>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
-   
-    </div>
-</div>
-
     </div>
   </Layout>
 )
