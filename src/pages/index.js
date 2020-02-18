@@ -13,14 +13,6 @@ const IndexPage = () => (
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
    
-    <div class="container">
-    <div class="row">
-        <div class="col-xs-6">
-            <img src="../Images/screen_shot.png" alt="ScreenShot" class="pull-right"/>
-        </div>
-        <div class="col-xs-6">
-          Column 2
-        </div>
     </div>
 </div>
 
