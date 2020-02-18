@@ -12,7 +12,11 @@ const IndexPage = () => (
     <p>Scan this QR code to try out our mobile app.</p>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
-    <button class="primary-button">Click me</button>
+   
+    <body>
+      <button onclick="window.location.href = 'https://forms.gle/vGo5FozQmdwW1B1AA';">Or Click Here</button>
+    </body>
+
     </div>
   </Layout>
 )
