@@ -10,7 +10,7 @@ const IndexPage = () => (
     <SEO title="Home" />
     <h1>We make parts on demand.</h1>
     <p>To try our mobile app please scan this QR code.</p>
-    <div style={{ maxWidth: `1400px`, marginBottom: `1.45rem`, padding: '40px' }}>
+    <div style={{ maxWidth: `1200px`, marginBottom: `1.45rem`, padding: '20px' }}>
       <Image />
     </div>
   </Layout>
